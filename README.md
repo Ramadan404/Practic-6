@@ -19,4 +19,4 @@
 - Возможность начать новую игру нажатием клавиши 'SPACE'.
 
 ### Скриншот
-![rps-game-screenshot](https://github.com/user-attachments/assets/3e6ecb2c-9d89-4bed-9f7d-f97061862e03)
+![screenshot]()
