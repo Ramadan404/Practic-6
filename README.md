@@ -19,4 +19,4 @@
 - Возможность начать новую игру нажатием клавиши 'SPACE'.
 
 ### Скриншот
-![screenshot]()
+![screenshot](https://github.com/Ramadan404/Practic-6/blob/main/screenshot.PNG)
